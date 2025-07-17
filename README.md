@@ -11,6 +11,7 @@ DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTOSH KUMAR
 
+
 📊 Power BI Internship – Task 1: Sales Dashboard
 🔖 Internship Task Description
 Objective:
